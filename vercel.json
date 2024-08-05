@@ -29,7 +29,7 @@
     "WARN_COUNT": "3",
     "STARTING_BOT_MESSAGE": "yes",
     "PRESENCE": "3",
-    "ANTI_DELETE_MESSAGE": "yes"
-    "DATABASE_URL":"postgresql://famous_tech_data_1_user:YjkXZesNqFYNGoCg46vE2fG8zWAfyPgN@dpg-cqgpfa56l47c73ct9bqg-a/famous_tech_data_1"
+    "ANTI_DELETE_MESSAGE": "yes",
+    "DATABASE_URL": "postgresql://famous_tech_data_1_user:YjkXZesNqFYNGoCg46vE2fG8zWAfyPgN@dpg-cqgpfa56l47c73ct9bqg-a/famous_tech_data_1"
   }
 }
